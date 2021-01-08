@@ -1,0 +1,95 @@
+body{
+    font-family: 'Xanh Mono', monospace;
+}
+.topnav{
+    float:right;
+    
+}
+.name{
+    color: salmon;
+}
+h1{
+    font-size: 40px;
+}h2{
+    font-size: 30px;
+    color: salmon;
+}
+
+
+
+
+p{
+    font-size: 25px;
+    background-color: white;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+    
+}
+
+    
+
+section{
+    height: 300px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-emphasis: move;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,black,blue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    margin-left: 10%;
+    margin-top: 40%;
+}
+.three{ 
+
+    background-color: rgb(201, 230, 238);
+    text-align-last:center;
+}
+
+
+.half-widthsingle-exp{
+    font-size: 80%;
+float: left;
+    border-radius: 5px;
+    height:80%;
+    width: 30%;
+    padding-left: 1%;
+    margin: 1%;
+  background-size: auto;
+    background-color:whitesmoke;
+} 
+.half-widthsingle-exp img{
+    
+     width: 80%;
+    
+}
+
+
+
+.four{
+background-image: url("personal-website/shapes/Group_33094_1.png");
+background-repeat: no-repeat;
+background-size: 500px 200px;
+
+background-position: center top;
+text-align: center;
+    margin-top: 10%;
+}
+
+
+
+footer {
+    margin-left: 35%;
+    text-align: center;
+    float: left;
+}
